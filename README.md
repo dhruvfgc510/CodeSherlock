@@ -1,4 +1,4 @@
-# Codesherlock
+# CodeSherlock
 CodeSherlock.AI, established by seasoned technology industry professionals with extensive backgrounds in Software Engineering and Architecture, operates under our parent company, Fintech Global Center, LLC, based in New Jersey, USA. We bring years of expertise in developing software solutions for the financial, fintech, and various other sectors.
 
 Recognizing the critical importance of code quality in today's software-driven world, we understand that code must not only meet the highest standards of security, scalability, reliability, and performance but also comply with industry norms. Many engineers face the challenge of needing to produce high-quality code daily, often without sufficient experience or knowledge.
